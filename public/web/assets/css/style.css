@@ -1,0 +1,104 @@
+/**
+
+* Template Name: Patron - Multipurpose Corporate and Security Service HTML Template
+* Version: 2.3
+* Author: Unicoder
+* Email: unicoder16@gmail.com
+* Developed By: Unicoder
+* First Release: 2nd November, 2017
+* Author URL: www.unicoderbd.com
+
+**/
+
+img.nav-logo {
+    width: 220px;
+    margin-top:7px;
+    margin-bottom:7px;
+    aspect-ratio:  auto 130/49;
+}
+
+.footer-logo img {
+    width: 220px;
+}
+
+h1,
+.h1 {
+    font-size: 40px;
+    font-weight: 600
+}
+
+h2,
+.h2 {
+    font-size: 32px;
+    font-weight: 600
+}
+
+h3,
+.h3 {
+    font-size: 26px;
+    font-weight: 600;
+    line-height: 1.3;
+}
+
+h4,
+.h4 {
+    font-size: 21px;
+    font-weight: 500
+}
+
+h5,
+.h5 {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.5
+}
+
+h6,
+.h6 {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px
+}
+
+.navbar-brand {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+
+/*============================
+ Navigation
+=============================*/
+.dropdown-item {
+    font-size: 14px;
+    text-transform: capitalize;
+}
+
+.top-header {
+    font-size: 14px
+}
+
+.top-header a {
+    display: block;
+}
+
+.abc
+{
+    /* background-image: url(../images/blurbg14.jpg); */
+    /* background-position: -800px 0; */
+	background-size: cover;
+	background-repeat: no-repeat;
+    transition: all;
+    transition-duration: 0.5s;
+    color:white !important;
+}
+
+/* .abc:hover
+{
+    background-position: 0 0 !important;
+} */
+
+img
+{
+    border-radius: 5px;
+}
